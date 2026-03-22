@@ -328,3 +328,8 @@ The guardrail already exists. The notebook handles this automatically and reuses
 - [Amazon Bedrock Guardrails](https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails.html)
 - [Open-Meteo API](https://open-meteo.com) — free weather API used in module 02
 - [Kiro IDE](https://kiro.dev)
+
+## Questions? 
+```sh
+Write to techwithyeshwanth@gmail.com
+```
