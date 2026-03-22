@@ -65,8 +65,8 @@ When you run code locally (like the notebooks in this workshop), your machine ne
 
    | Key | Example format |
    |---|---|
-   | Access Key ID | `AKIAIOSFODNN7EXAMPLE` |
-   | Secret Access Key | `wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY` |
+   | Access Key ID | `*********************` |
+   | Secret Access Key | ``*********************`` |
 
 9. Click **Done**
 
@@ -85,8 +85,8 @@ aws configure
 You'll be prompted for:
 
 ```
-AWS Access Key ID:     AKIAIOSFODNN7EXAMPLE
-AWS Secret Access Key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+AWS Access Key ID:     `*********************`
+AWS Secret Access Key: `*********************`
 Default region name:   us-east-1
 Default output format: json
 ```
@@ -98,8 +98,8 @@ This saves your credentials to `~/.aws/credentials` and region to `~/.aws/config
 Useful if you're switching between multiple accounts or working in CI/CD:
 
 ```bash
-export AWS_ACCESS_KEY_ID="AKIAIOSFODNN7EXAMPLE"
-export AWS_SECRET_ACCESS_KEY="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+export AWS_ACCESS_KEY_ID="`*********************`"
+export AWS_SECRET_ACCESS_KEY="`*********************`"
 export AWS_DEFAULT_REGION="us-east-1"
 ```
 
