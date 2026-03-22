@@ -2,6 +2,14 @@
 
 A hands-on workshop that takes you from a single-line "Hello World" agent all the way to a production-ready, memory-enabled, guardrail-protected AI agent deployed on Amazon Bedrock AgentCore.
 
+## Follow me:
+* YouTube: https://www.youtube.com/@TechWithYeshwanth/videos
+* Follow my GitHub here: https://github.com/yeshwanthlm
+* Follow my blogs here: https://dev.to/yeshwanthlm/
+* Follow me on Instagram: https://www.instagram.com/techwithyeshwanth/
+* Follow me on LinkedIn: https://www.linkedin.com/in/yeshwanth-l-m/
+* Book 1:1 Meeting with me: https://topmate.io/techwithyeshwanth
+
 ---
 
 ## What you'll build
